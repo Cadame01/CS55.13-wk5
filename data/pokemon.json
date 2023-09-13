@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bulbasaur",
+    "region": "Kanto",
+    "type": "Grass/Poison",
+    "nickname": "Seed Pokemon",
+    "number": "0001",
+    "id": 1
+  },
+  {
+    "name": "Chikorita",
+    "region": "Johto",
+    "type": "Grass",
+    "nickname": "Leaf Pokemon",
+    "number": "0152",
+    "id": 2
+  },
+  {
+    "name": "Treecko",
+    "region": "Hoen",
+    "type": "Grass",
+    "nickname": "Wood Gecko Pokemon",
+    "number": "0252",
+    "id": 3
+  },
+  {
+    "name": "Turtwig",
+    "region": "Sinnoh",
+    "type": "Grass",
+    "nickname": "Tiny Leaf Pokemon",
+    "number": "0387",
+     "id": 4
+  }
+]
