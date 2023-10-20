@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "owner": 1,
+    "evolution": "Ivysaur"
+  },
+  {
+    "id": 2,
+    "owner": 1,
+    "evolution": "Venusaur"
+  },
+  {
+    "id": 3,
+    "owner": 2,
+    "evolution": "Bayleef"
+  },
+  {
+    "id": 4,
+    "owner": 2,
+    "evolution": "Meganium"
+  },
+  {
+    "id": 5,
+    "owner": 3,
+    "evolution": "Grovyle"
+  },
+  {
+    "id": 6,
+    "owner": 3,
+    "evolution": "Sceptile"
+  },
+  {
+    "id": 7,
+    "owner": 4,
+    "evolution": "Grotle"
+  },
+  {
+    "id": 8,
+    "owner": 4,
+    "evolution": "Torterra"
+  }
+]
