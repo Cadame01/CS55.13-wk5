@@ -34,7 +34,7 @@ export default function Entry( { itemData } ) {
           <p className="card-text">{itemData.type}</p>
           <p className="card-text">{itemData.nickname}</p>
           <p className="card-text">{itemData.number}</p>
-          <h6>Pokemon's Evolutions</h6>
+          <h6>Pokemon&apos;s Evolutions</h6>
           <ol>
             {itemData.evolution && itemData.evolution.map(
                 ({id, evolution}) => (
